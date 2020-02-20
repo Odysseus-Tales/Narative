@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
-  m_Name: Room 1
+  m_Name: C1 View from Bridge 1
   m_EditorClassIdentifier: 
-  strStoryText: I am in room 1
+  strStoryText: 
   nextState:
-  - {fileID: 11400000, guid: 8a0ced7f3a9fbd240ba58f3b48fd64ca, type: 2}
-  - {fileID: 11400000, guid: bf4702a332908514998202cf876d7127, type: 2}
+  - {fileID: 11400000, guid: 184be3d3822dcdd4c93464b86f3c97f9, type: 2}
+  - {fileID: 11400000, guid: 571b4009d5b69cb498a44b53fce7b975, type: 2}

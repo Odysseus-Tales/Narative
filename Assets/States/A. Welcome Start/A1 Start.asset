@@ -10,14 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
-  m_Name: StartingState
+  m_Name: A1 Start
   m_EditorClassIdentifier: 
   strStoryText: "The canoe race has started and the canoe we're supporting is off
     to a good start.\r\n\r\nHowever, there are several more groups that haven't started
     yet. \r\nThe war canoes are getting ready and it should be interesting to\r\nsee
     them launched.\r\n\r\nWhat should we do?\r\n1. Stay and watch the other groups
-    launch their canoes.\r\n2. Get in the car and head off to our first rendezvous
-    point."
+    launch their canoes.\r\n2. Get in the car and head off to our rendezvous point."
   nextState:
-  - {fileID: 11400000, guid: 47f48a75f6750f3429851ff0d832216b, type: 2}
-  - {fileID: 11400000, guid: 8a0ced7f3a9fbd240ba58f3b48fd64ca, type: 2}
+  - {fileID: 11400000, guid: 8610d9a224aa276429e48b39f4c43c6d, type: 2}
+  - {fileID: 11400000, guid: 23a5f2510a609734785860c34c392f6d, type: 2}

@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
-  m_Name: Room 2
+  m_Name: D2 Never seen again
   m_EditorClassIdentifier: 
-  strStoryText: Okay, I am now in room 2
+  strStoryText: 
   nextState:
-  - {fileID: 11400000, guid: 47f48a75f6750f3429851ff0d832216b, type: 2}
   - {fileID: 11400000, guid: bf4702a332908514998202cf876d7127, type: 2}
+  - {fileID: 11400000, guid: 1844997728bc1754da33356344d3b9bb, type: 2}
