@@ -12,6 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
   m_Name: C2 Arrive at rendezvous
   m_EditorClassIdentifier: 
-  strStoryText: 
+  strStoryText: "You arrive at the rendezvous site with plenty of time to get set
+    up\nfor the arrival of the canoe you're supporting. \n\nYour canoe arrives and
+    it's a good thing you're there! They have \nrun out of water and you are able
+    to get them replenished and \nready to continue.\n\n1. You drive back to the
+    camp site."
   nextState:
   - {fileID: 11400000, guid: 1b37edc00fdef4f479549fbdf1ec827a, type: 2}

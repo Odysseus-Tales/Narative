@@ -12,13 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
   m_Name: B4 Tense dinner
   m_EditorClassIdentifier: 
-  strStoryText: 'You enjoyed watching ALL the canoes start the race. It''s a bit
-    later than you had planned, but you get in your car.
+  strStoryText: 'You arrive at the camp site and your canoe racing friends show up
+    not long after. The dinner is tense and you swear that your burger was deliberately
+
+    burned
+    to a crisp.
 
 
-    1. You drive to the
-    rendezvous point
+    1. You drive home with an upset stomach.
 
-    2. You skip the rendezvous point and go back to the camp'
+'
   nextState:
   - {fileID: 11400000, guid: e42e47e4cb565ef47b0b62d6efcbe2f1, type: 2}
