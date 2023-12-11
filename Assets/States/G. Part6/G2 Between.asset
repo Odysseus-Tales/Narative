@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: G2 Between
+  m_EditorClassIdentifier: 
+  strStoryText: "Rain rumbles yet Dazed by the search, which way?\n1. to the left
+    straight bewteen Onondaga and crawford \n2. down the stairs towards stuac\n3.
+    go back"
+  nextState:
+  - {fileID: 11400000, guid: 1cd52501008ef0b418a380d025c32492, type: 2}
+  - {fileID: 11400000, guid: c0e7d990515e0614bb0f35dcbdde23b4, type: 2}
+  - {fileID: 11400000, guid: 5670a98a93de7074a97c540129253394, type: 2}

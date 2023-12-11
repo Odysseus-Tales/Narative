@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: J2Water
+  m_EditorClassIdentifier: 
+  strStoryText: 'You both stare at each other like deers viewing headlights
+
+
+    After
+    both of you take a pause you cough
+
+
+    The figure appears to be a Linsu- a
+    sentient humanoid grey cat in overalls
+
+
+    He offers water
+
+
+    Do you accept?
+
+
+    1.
+    No but apologize
+
+
+
+
+
+'
+  nextState:
+  - {fileID: 11400000, guid: 9c1ee66ce27571c48a747bc2a2362305, type: 2}

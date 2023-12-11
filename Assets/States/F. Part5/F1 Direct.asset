@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: F1 Direct
+  m_EditorClassIdentifier: 
+  strStoryText: 'She scoffs stopping her song and Skedaddles away
+
+    Wearily follows
+    her unsure in why hes following her all the way to campus
+
+    followed her till
+    i  lost track of her in front of seneca
+
+    Which road?
+
+    1. up the hill
+    straight then around mohwak
+
+    2.Straight  between cayuga and seneca
+
+    3.to
+    the right around The Pit Stop'
+  nextState:
+  - {fileID: 11400000, guid: 1cd52501008ef0b418a380d025c32492, type: 2}
+  - {fileID: 11400000, guid: 46d3fad0a3189904f99e7aea4360598c, type: 2}
+  - {fileID: 11400000, guid: ca5b8c875b9bf9b44a6836e734e79315, type: 2}

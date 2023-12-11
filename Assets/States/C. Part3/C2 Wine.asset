@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: C2 Wine
+  m_EditorClassIdentifier: 
+  strStoryText: 'Ari drank so much, talks about her whole upbringing
+
+    followed
+    by a off tune rendition of
+
+    Fireworks by Katy Perry
+
+    1.go back'
+  nextState:
+  - {fileID: 11400000, guid: 8449bd5eb791fe54aa417606989cdd4b, type: 2}

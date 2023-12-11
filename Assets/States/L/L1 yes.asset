@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: L1 yes
+  m_EditorClassIdentifier: 
+  strStoryText: "you tell helios about the weed zomies but not how strong they are.
+    \n\nShes a bit spooked but gives off the feeling of wanting to prove herself\n\n1.
+    continue"
+  nextState:
+  - {fileID: 11400000, guid: 7c35dbfa8a3ffc242a76ebe54700ba18, type: 2}

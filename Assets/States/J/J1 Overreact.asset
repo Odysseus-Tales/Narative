@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: J1 Overreact
+  m_EditorClassIdentifier: 
+  strStoryText: 'You wake up as if you were a bird spreading its wings.
+
+
+    prompty
+    trying to stir the environment with your presence.
+
+
+    A figure is frighten
+    by your fit therfore moves backward to distance themselves.
+
+
+
+    Response?
+
+    1.
+    silence
+
+    2. Read the room
+
+'
+  nextState:
+  - {fileID: 11400000, guid: fc8c36de4a312024c999963f99bbe486, type: 2}
+  - {fileID: 11400000, guid: 72a7deaa3eea9774ebc0356ae573fea6, type: 2}

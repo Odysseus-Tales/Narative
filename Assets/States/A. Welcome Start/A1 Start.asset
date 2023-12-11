@@ -12,11 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
   m_Name: A1 Start
   m_EditorClassIdentifier: 
-  strStoryText: "The canoe race has started and the canoe we're supporting is off
-    to a good start.\r\n\r\nHowever, there are several more groups that haven't started
-    yet. \r\nThe war canoes are getting ready and it should be interesting to\r\nsee
-    them launched.\r\n\r\nWhat should we do?\r\n1. Stay and watch the other groups
-    launch their canoes.\r\n2. Get in the car and head off to our rendezvous point."
+  strStoryText: " I found myself stumbling upon the heavy janky front door of the
+    Copah Tavern. The unkept heinous exterior doesn\u2019t match the sense of home
+    this tavern brings. The frozen clock at the foreframe of the building is a constant
+    reminder of how stuck in time we are with no progress to be made. I swatted an
+    eyeball off my shoulder then proceeded to push and heave at the door.\n\rWalks
+    over to the bar and sits on stool at the end of the bar\n\r\nWhat should we do?\r\n1.
+    Soda.\r\n2. Beer.\n3.Water."
   nextState:
-  - {fileID: 11400000, guid: 8610d9a224aa276429e48b39f4c43c6d, type: 2}
-  - {fileID: 11400000, guid: 23a5f2510a609734785860c34c392f6d, type: 2}
+  - {fileID: 11400000, guid: 6a2e4828f3d6da14783425f213059222, type: 2}
+  - {fileID: 11400000, guid: 8449bd5eb791fe54aa417606989cdd4b, type: 2}
+  - {fileID: 11400000, guid: 7465b3960a739ee4a8aa173b39625351, type: 2}

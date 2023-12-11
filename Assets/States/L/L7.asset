@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: L7
+  m_EditorClassIdentifier: 
+  strStoryText: "The scale of everything by two with a constant broken facet of a
+    mouth slipping out drool and nose backed up so much you\u2019d think someone
+    clogged a toilet.\nThe zombies were exerting a raspy scratch from the top of
+    their mouths. I wish to describe more yet this herd, what now appears to be 30,
+    is too horrid to be looked upon\n\nUnleash the fork!\n1.Swoosh\n2.Grind\n3.Rip\n\n"
+  nextState:
+  - {fileID: 11400000, guid: 5ec2ea7f6836f854097402bc070b6cb7, type: 2}
+  - {fileID: 11400000, guid: 6c6fb182e15ba5c44b9f495ac7b1aa2d, type: 2}
+  - {fileID: 11400000, guid: de272735cba4fb748b20ffe10000405d, type: 2}

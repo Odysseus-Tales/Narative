@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: B2 Beer
+  m_EditorClassIdentifier: 
+  strStoryText: "\u201C Be ready, 4 Victorias please, open one at a time but out
+    of those enjoy one yourself \u201C, I said.\r\n\t\u201C I\u2019ll never say no
+    to such a kind offer but remember I\u2019m on the job, I can\u2019t have too
+    much sweetheart\u201D, said Ari\r\nInvite Ari to another drink?\n1. A shot of
+    Rum\n2.Red Wine\n3.Cold Beer"
+  nextState:
+  - {fileID: 11400000, guid: 786c5c822143ca44a9b3dc327785aab4, type: 2}
+  - {fileID: 11400000, guid: 92dc7a6f31f4fae48b2703da6aafd200, type: 2}
+  - {fileID: 11400000, guid: a0d52fe997f10414ba3e1701e3a6040e, type: 2}
