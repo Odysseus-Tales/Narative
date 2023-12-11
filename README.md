@@ -1,1 +1,1 @@
-I remodified Prof. marcoux's Branching narrative template to follow my original Story in the draw.io 
+I remodified Prof. marcoux's Branching narrative template to follow my original Story from the first assignment in draw.io then I proceeded to expand that story from the storyline into a grander adventure 
